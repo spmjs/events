@@ -1,4 +1,4 @@
-# events [![Build Status](https://travis-ci.org/Gozala/events.png?branch=master)](https://travis-ci.org/Gozala/events) [![NPM version](https://badge.fury.io/js/detector.png)](http://badge.fury.io/js/detector) [![spm package](http://spmjs.io/badge/events)](http://spmjs.io/package/events)
+# events [![Build Status](https://travis-ci.org/Gozala/events.png?branch=master)](https://travis-ci.org/Gozala/events) [![NPM version](https://badge.fury.io/js/events.png)](http://badge.fury.io/js/events) [![spm package](http://spmjs.io/badge/events)](http://spmjs.io/package/events)
 
 ----
 
